@@ -1,4 +1,3 @@
-```
 ### Hey, my name is Rodrigo
 
 <p><em> ● Computer Systems student at UFF and aspirant full-stack developer.</em></p>
@@ -15,7 +14,6 @@
   <a href="https://github.com/siqueirarxd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siqueirarxd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 ##
 
 <div>
@@ -26,4 +24,3 @@
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
-```
