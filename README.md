@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/siqueirarxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siqueirarxd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqueirarxd&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siqueirarxd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache-control=no-cache"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqueirarxd&layout=compact&langs_count=16&theme=dracula&cache-control=no-cache"/>
 
 ---
 
